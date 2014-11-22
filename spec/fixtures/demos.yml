@@ -1,0 +1,34 @@
+item1:
+  id: 1
+  title: Test title 1
+  summary: Test summary 1
+  body: Test body 1
+  url: http://www.ub.gu.se/page1.html
+
+item2:
+  id: 2
+  title: Test title 2
+  summary: Test summary 2
+  body: Test body 2
+  url: http://www.ub.gu.se/page2.html
+
+item3:
+  id: 3
+  title: Test title 3
+  summary: Test summary 3
+  body: Test body 3
+  url: http://www.ub.gu.se/page3.html
+
+item4:
+  id: 4
+  title: Test title 4
+  summary: Test summary 4
+  body: Test body 4
+  url: http://www.ub.gu.se/page4.html
+
+item5:
+  id: 5
+  title: Test title 5
+  summary: Test summary 5
+  body: Test body 5
+  url: http://www.ub.gu.se/page5.html
